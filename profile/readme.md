@@ -27,7 +27,9 @@ We check production-readiness across nine dimensions — design consistency, use
 ## Where to start
 
 **Product & overview** → **[reweaver.ai](https://www.reweaver.ai)**
+
 **Read the thesis** → [The design-code roundtrip that isn't](https://www.reweaver.ai/post/the-design-code-roundtrip-that-isn-t)
+
 **Get the toolkit + join the beta** → [AI Drift Prevention Toolkit](https://info.reweaver.ai/AI-coding-survival-kit)
 
 ---
