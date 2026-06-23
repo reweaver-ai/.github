@@ -1,6 +1,6 @@
 # ReWeaver AI
 
-### Don't code in the dark.
+![STO CODING IN THE DARK - an image of a box with a light inside it represewnting the AI Black Box of assisted coding](https://media.licdn.com/dms/image/v2/D563DAQFpHe_dXGRWBA/image-scale_191_1128/B56Z03HTV4JwAc-/0/1774746154675/reweaver_ai_cover?e=1782838800&v=beta&t=TozNxEsevRwvTej7IY-Uf4ZSOc8lSDjx1gugTyl0lGw)
 
 **Governance for AI-generated code.** AI writes a fast-growing share of what ships to production — and it drifts from the standards teams are trying to hold: their design system, their conventions, their reliability and security practices. ReWeaver AI is a deterministic governance engine that catches that drift, surfaces it, and keeps a human in control of every change.
 
