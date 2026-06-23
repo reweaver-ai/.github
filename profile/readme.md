@@ -28,9 +28,12 @@ We check production-readiness across nine dimensions — design consistency, use
 
 **Product & overview** → **[reweaver.ai](https://www.reweaver.ai)**
 
+**Try it live** → [Playground](https://www.reweaver.ai/playground) — paste in AI-generated code and watch the deterministic engine surface drift in real time, no install required. The fastest way to see governance in action before you join the beta.
+
 **Read the thesis** → [The design-code roundtrip that isn't](https://www.reweaver.ai/post/the-design-code-roundtrip-that-isn-t)
 
 **Get the toolkit + join the beta** → [AI Drift Prevention Toolkit](https://info.reweaver.ai/AI-coding-survival-kit)
+
 
 ---
 
