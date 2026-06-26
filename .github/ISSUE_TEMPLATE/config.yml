@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/reweaver-ai/.github/blob/main/SECURITY.md
+    about: Please report security issues privately — do not open a public issue.
+  - name: Try the Playground
+    url: https://www.reweaver.ai/playground
+    about: Paste in AI-generated code and watch the deterministic engine surface drift.
+  - name: Product, beta & questions
+    url: https://www.reweaver.ai
+    about: Learn more about ReWeaver AI, join the beta, or get in touch.

@@ -1,0 +1,44 @@
+name: Feature request
+description: Suggest an idea, improvement, or new rule
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Tell us the problem you're trying to solve — that's more useful to us than a pre-formed solution.
+  - type: input
+    id: repo
+    attributes:
+      label: Repository / product
+      description: Which repo or product is this for? (e.g. survival-kit)
+      placeholder: survival-kit
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the pain point or gap. What's hard or impossible today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like to see? A new rule, config, behavior, or capability.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you've thought about or tried.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Examples, references, or anything else that helps.
+    validations:
+      required: false
