@@ -1,0 +1,60 @@
+name: Bug report
+description: Report something that isn't working as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug. Clear, specific reports help us fix things fast.
+        For security vulnerabilities, **do not** open an issue — see our [Security Policy](https://github.com/reweaver-ai/.github/blob/main/SECURITY.md).
+  - type: input
+    id: repo
+    attributes:
+      label: Repository / product
+      description: Which repo or product does this affect? (e.g. survival-kit)
+      placeholder: survival-kit
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug and its impact.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Minimal steps to reproduce the behavior.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Versions, OS, AI assistant/tool, and any relevant config.
+      placeholder: |
+        - Tool/assistant: Claude Code / Cursor / Copilot / ...
+        - Version:
+        - OS:
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, or anything else that helps.
+    validations:
+      required: false
