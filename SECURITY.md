@@ -9,7 +9,7 @@ Security is part of what ReWeaver AI is for — so we hold our own code and infr
 Report privately through either channel:
 
 - **GitHub** — use the **"Report a vulnerability"** button under the **Security** tab of the affected repository ([private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)).
-- **Email** — [security@reweaver.ai](mailto:security@reweaver.ai)
+- **Email** — [info@reweaver.ai](mailto:info@reweaver.ai)
 
 Please include:
 
